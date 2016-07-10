@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #coding:utf-8
 import os,sys,getopt,ftplib,tarfile,ConfigParser,re
 reload(sys)
